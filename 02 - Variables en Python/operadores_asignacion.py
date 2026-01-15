@@ -10,3 +10,4 @@ print("Mostramos la edad :::> ",edad)
 mensaje = "Hola "
 mensaje += "bienvenido al curso de Python"
 print("Mostramos el mensaje :::> ",mensaje)
+
